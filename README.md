@@ -1,3 +1,3 @@
-#Python Project Workflow following the article
+# Python Project Workflow following the article
 
 https://testdriven.io/blog/python-project-workflow/
